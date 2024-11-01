@@ -15,7 +15,7 @@ color: #434455;}
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-     color: #4d5ae5;}
+     color: #2e2f42;}
     .nav {
       font-family: "Raleway-bold", sans-serif;
       font-weight: 700;
@@ -47,12 +47,15 @@ letter-spacing: 0.02em;
 color:  #434455;;}
  .contacts-link  :hover,
 .contacts-link :focus{
-     color: #404BBF;} 
+     color: #404bbf;} 
 .nav-link  :hover,
 .nav-link :focus,
-.button-focus{ 
+
+.button :hover{ 
  color: #404bbf;
 }
+.button-focus{
+    background-color: #404BBF;}
  .holder-imeges{
     background : #2e2f42;}
  .images-text{
@@ -98,7 +101,7 @@ color: #434455;}
 }  
  .team-items{
     font-style: normal;
-color: #F4F4FD;}
+ background-color: #F4F4FD;}
 .team-title{
     background-color: #F4F4FD;
     text-transform: capitalize;
