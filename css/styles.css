@@ -33,7 +33,7 @@ color: #434455;}
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;}
+    color:#404bbf;}
 .contacts{
     font-style: normal;}
     .contacts-link{
@@ -47,15 +47,11 @@ letter-spacing: 0.02em;
 color:  #434455;;}
  .contacts-link  :hover,
 .contacts-link :focus{
-     color: #404BBF;
-
-
-      
-    } 
+     color: #404BBF;} 
 .nav-link  :hover,
 .nav-link :focus,
 .button-focus{ 
- color: #404BBF;
+ color: #404bbf;
 }
  .holder-imeges{
     background : #2e2f42;}
@@ -73,7 +69,7 @@ color: #fff;}
     color: #ffffff;
     cursor: pointer;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-    background: #404BBF;
+    background: #4D5AE5;
     border-radius: 4px;
      padding: 16px 32px;
     width: 169px;
@@ -88,6 +84,7 @@ color: #434455;}
  .desc{
     font-style: normal;} 
  .desc-lead{
+    font-weight: 500;
     font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
@@ -96,9 +93,12 @@ color: #2e2f42;}
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #4d5ae5;}  
+color: #434455;}
+
+}  
  .team-items{
-    font-style: normal;}
+    font-style: normal;
+color: #F4F4FD;}
 .team-title{
     background-color: #F4F4FD;
     text-transform: capitalize;
