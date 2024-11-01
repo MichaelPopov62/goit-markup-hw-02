@@ -39,17 +39,23 @@ body{
         font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #4d5ae5;
+color:  #434455;;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #4d5ae5;}
+color:  #434455;;}
  .contacts-link  :hover,
 .contacts-link :focus{
-     color:rgba(46, 47, 66, 0.7);} 
+     color: #404BBF;
+
+
+      
+    } 
 .nav-link  :hover,
-.nav-link :focus{ 
- color:rgba(46, 47, 66, 0.7);}
+.nav-link :focus,
+.button-focus{ 
+ color: #404BBF;
+}
  .holder-imeges{
     background : #2e2f42;}
  .images-text{
@@ -59,18 +65,25 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #fff;}   
  .button{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-    background: #4d5ae5;
+    background: #404BBF;
     border-radius: 4px;
      padding: 16px 32px;
     width: 169px;
     height: 56px;} 
  .tem-title{
+    font-weight: 500;
 font-size: 36px;
 line-height: 1.11111;
 letter-spacing: 0.02em;
 text-align: center;
-color: #2e2f42;}  
+color: #434455;}  
  .desc{
     font-style: normal;} 
  .desc-lead{
@@ -86,16 +99,22 @@ color: #4d5ae5;}
  .team-items{
     font-style: normal;}
 .team-title{
+    background-color: #F4F4FD;
+    text-transform: capitalize;
 font-size: 36px;
 line-height: 1.11111;
+line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;}
+.team-list{
+    background-color: #FFFFFF;}
 .team-img{
     background: url("path_to_image");
     width: 264px;
     height: 260px;}
 .team-name{
+    font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
@@ -106,10 +125,12 @@ color: #2e2f42;}
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #4d5ae5;}
+    color: #434455;}
 .portfolio{
     font-style: normal;}
 .portfolio-title{
+    font-weight: 500;
+    text-transform: capitalize;
     font-size: 36px;
     line-height: 111%;
     letter-spacing: 0.02em;
@@ -138,7 +159,7 @@ color: #2e2f42;}
       font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
-    color: #e7e9fc;}
+    color: #F4F4FD;}
 
 
  
