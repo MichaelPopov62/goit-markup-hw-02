@@ -96,12 +96,10 @@ color: #2e2f42;}
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #434455;}
-
-}  
+color: #434455;}  
  .team-items{
     font-style: normal;
- background-color: #F4F4FD;}
+ background-color:#F4F4FD;}
 .team-title{
     background-color: #F4F4FD;
     text-transform: capitalize;
@@ -132,7 +130,7 @@ color: #2e2f42;}
     color: #434455;}
 .portfolio{
     font-style: normal;}
-.portfolio-title{
+ .portfolio-title{
     font-weight: 500;
     text-transform: capitalize;
     font-size: 36px;
@@ -159,6 +157,9 @@ color: #2e2f42;}
     width: 1440px;
     height: 312px;
   background: #2e2f42; }
+  .logo{
+    color: #4d5ae5;
+  }
 .footer-text{
       font-size: 16px;
     line-height: 150%;
