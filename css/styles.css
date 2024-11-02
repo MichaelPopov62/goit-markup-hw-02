@@ -33,26 +33,26 @@ color: #434455;}
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color:#404bbf;}
+    color:#2e2f42;}
 .contacts{
     font-style: normal;}
     .contacts-link{
         font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color:  #434455;;
+color:  #434455;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color:  #434455;;}
+color:  #434455;}
  .contacts-link  :hover,
 .contacts-link :focus{
      color: #404bbf;} 
-.nav-link  :hover,
-.nav-link :focus,
-
-.button :hover{ 
- color: #404bbf;
+.nav-link:hover,
+.nav-link:focus,
+.button:hover,
+.button:focus{
+color: #404bbf;
 }
 .button-focus{
     background-color: #404BBF;}
