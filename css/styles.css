@@ -49,11 +49,10 @@ color:  #434455;}
 .contacts-link :focus{
      color: #404bbf;} 
 .nav-link:hover,
-.nav-link:focus,
-.button:hover,
-.button:focus{
+.nav-link:focus{
 color: #404bbf;
 }
+.button:hover,
 .button-focus{
     background-color: #404BBF;}
  .holder-imeges{
@@ -139,10 +138,12 @@ color: #2e2f42;}
     text-align: center;
     color:#2E2F42;}
   .portfolio-card{
+    
     background: url("path_to_image");
     width: 360px;
     height: 300px;}
  .portfolio-direction{
+    font-weight: 500;
    font-size: 20px;
    line-height: 120%;
    letter-spacing: 0.02em;
